@@ -4,4 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi, I'm Calin Ilie, I'm a [Computer Science](#) student at the [University of Manchester](https://www.manchester.ac.uk).
+I love coding and building stuff, and here I am presenting some of my projects.
+I am also passionate about history, philosophy, politics and craft beer.
+
+# Contact
+Email: [calin@ilie.io](mailto:calin@ilie.io)
+
+Github: [calini](https://github.com/calini)
+
+Twitter: [ilieio](https://twitter.com/ilieio)
