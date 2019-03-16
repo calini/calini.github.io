@@ -8,16 +8,45 @@ keywords: "dummy content"
 
 # Here's some Go
 
-``` go
+~~~ go
+package main
+
+import (
+    "fmt"
+)
+
 func main() {
     fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
+    fmt.Println("Hello world!")
 }
-```
+~~~
 
 # Here's some Java
 
 ``` java
 public static void main() {
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
+    System.out.println("Hello world!");
     System.out.println("Hello world!");
 }
 ```
