@@ -2,7 +2,7 @@
 layout: goimports
 permalink: /go/spongebob
 
-go-import: "ilie.io/go/std git https://github.com/calini/spongebob"
+go-import: "ilie.io/go/spongebob git https://github.com/calini/spongebob"
 go-source: 
     > 
       ilie.io/go/spongebob.v1
