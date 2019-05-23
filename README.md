@@ -3,6 +3,7 @@
 > Thinkspace is just another minimalist Jekyll theme which designed for technical writing blog.
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-2.5-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/thinkspace.svg?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcalini%2Fcalini.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcalini%2Fcalini.github.io?ref=badge_shield)
 
 - **Demo:** https://heiswayi.github.io/thinkspace/
 
@@ -11,3 +12,6 @@
 ## License
 
 [MIT](LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcalini%2Fcalini.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcalini%2Fcalini.github.io?ref=badge_large)
