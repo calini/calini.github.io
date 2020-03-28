@@ -15,6 +15,4 @@ Github: [calini](https://github.com/calini)
 
 Twitter: [ilieio](https://twitter.com/ilieio)
 
-SSH: [key](/keys/id_rsa.pub)
-
 GPG: [key](/keys/gpg.asc), fingerprint: `EC759F544CABDB61292D7F87E649E59DBD9CDECA`
